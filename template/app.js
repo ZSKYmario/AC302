@@ -23,3 +23,4 @@ ctx2.clearRect(160, 20, 120, 120);
 ctx2.clearRect(20, 160, 120, 120);
 ctx2.clearRect(160, 160, 120, 120);
 
+ 
