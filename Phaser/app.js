@@ -1,4 +1,4 @@
- var game = new Phaser.Game(800, 600, Phaser.Auto, '', {preload:, create, update:update})
+ var game = new Phaser.Game(800, 600, Phaser.Auto, '', {preload:preload, create:create, update:update})
 
 var score = 0;
 var lives = 5;
