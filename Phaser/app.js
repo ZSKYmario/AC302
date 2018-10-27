@@ -27,7 +27,7 @@ var ledge1 = platforms.create(300,400,'ground');
 ground.scale.setTo(2,2);
 ground.body.immovable = true;
 
-var style = {font: "bold 32px Arial"touch, fill:"#fff"};
+var style = {font: "bold 32px Arial", fill:"#fff"};
 
 sl = game.add.text(500,5, "score:", style);
 sn = game.add.text(550,5,score,style)
