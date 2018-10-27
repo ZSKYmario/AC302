@@ -19,7 +19,7 @@ var ground = platforms.create(0,550,'ground');
 ground.scale.setTo(2,2);
 ground.body.immovable = true;
 
-var ledge1 = platforms.create(0,250,'ground');
+var ledge2 = platforms.create(0,250,'ground');
 ground.scale.setTo(2,2);
 ground.body.immovable = true;
 
